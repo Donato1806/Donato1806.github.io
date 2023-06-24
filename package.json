@@ -1,0 +1,11 @@
+{
+  "name": "live_website",
+  "version": "1.0.0",
+  "description": "My first live live_website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
