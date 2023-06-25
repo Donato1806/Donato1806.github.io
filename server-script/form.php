@@ -1,7 +1,8 @@
 <html>
 <body>
 
-<h1>hello</h1>
+Hi <?php echo htmlspecialchars($_POST['email']); ?>.
+Your password is <?php echo $_POST['password']; ?> .
 
 </body>
 </html>
